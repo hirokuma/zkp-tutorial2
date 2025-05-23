@@ -1,0 +1,12 @@
+**/node_modules/
+circuit_js/
+
+*.zkey
+*.ptau
+*.r1cs
+*.sym
+public.json
+verification_key.json
+proof.json
+witness.wtns
+verifier.sol
